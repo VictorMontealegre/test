@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Testing App" language="en" table="x_801533_test_appl_testing_app">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Testing App</label>
+            <language>en</language>
+            <name>x_801533_test_appl_testing_app</name>
+            <plural>Testing Apps</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 05:04:19</sys_created_on>
+            <sys_name>Testing App</sys_name>
+            <sys_package display_value="Test Application" source="x_801533_test_appl">f0ee461297302110e19b3d400153af7c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test Application">f0ee461297302110e19b3d400153af7c</sys_scope>
+            <sys_update_name>sys_documentation_x_801533_test_appl_testing_app__en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
